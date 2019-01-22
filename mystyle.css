@@ -1,0 +1,30 @@
+
+body{
+    background-color:  #a6ff4d;
+}
+h1{
+    color: #0044ff;
+}
+
+.border{
+    /* border-color: red;
+    border-width: 1px;
+    border-style: solid; */
+
+    border: 1px solid red;
+
+    /* margin-top:10px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    margin-left:40px; */
+
+    margin: 10px 20px 5px 40px;   /*top right bottom left */
+    padding : 5px 10px 5px 10px;
+    border-color: blueviolet;
+
+}
+.border-red{
+    border-color: red;
+    
+
+}
