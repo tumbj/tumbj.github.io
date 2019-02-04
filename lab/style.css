@@ -1,0 +1,10 @@
+.first{
+    float: left;
+    /* width: 200px; */
+    /* height: 200px; */
+}
+.second{
+    float : right;
+    /* width: 200px; */
+    /* height: 200px; */
+}
