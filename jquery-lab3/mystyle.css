@@ -4,7 +4,7 @@ body{
 	background-repeat: no-repeat;
     background-position-x: center;
 	background-attachment: fixed;
-	height: 1080px;
+	height: 1090px;
 	
 	background-size: cover; 
 	background-size:fixed;
@@ -55,5 +55,65 @@ body{
   #result{
     color: aliceblue;
 }
+/* 
+  .mySlides {display:none;} */
 
-  .mySlides {display:none;}
+  slider{
+    display: block;
+    width:  600px;
+    height: 400px;
+    background-color: whitesmoke;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  slider > * {
+    position: absolute;
+    display: block;
+    width:  600px;
+    height: 400px;
+    background :  whitesmoke   ;
+    animation: slide 12s infinite;
+    overflow: hidden;
+  }
+
+  slide:nth-child(1){
+    left: 0%;
+    animation-delay: -1s;
+    background-image: url(doi1.jpg);
+    background-size: cover;
+    background-position: center; 
+  }
+  slide:nth-child(2){
+    left: 0%;
+    animation-delay: 2s;
+    background-image: url(doi2.jpg);
+    background-size: cover;
+    background-position: center; 
+  }
+  slide:nth-child(3){
+    left: 0%;
+    animation-delay: 5s;
+    background-image: url(doi3.jpg);
+    background-size: cover;
+    background-position: center; 
+  }
+  slide:nth-child(4){
+    left: 0%;
+    animation-delay: 5s;
+    background-image: url(doi4.jpg);
+    background-size: cover;
+    background-position: center; 
+  }
+
+
+  @keyframes slide {
+    0% {left: 100%; widows: 100%;}
+    5% {left: 00%;}
+    10% {left: 00%;}
+    15% {left: 000%;}
+    20% {left: 00%;}
+    25% {left: 000%;}
+    30.0001% {left: -100%;width :0%;}
+    100% {left: 100%; width: 0%;}
+  }
