@@ -1,0 +1,63 @@
+[
+    {
+        "nameTH": "ดอยอ่างขาง",
+        "nameENG": "Doyangkang",
+        "province" : "Chiangmai",
+        "height" : "1928"
+    },
+    {
+        "nameTH": "ดอยเสมอดาว",
+        "nameENG": "DoySamerdao",
+        "province" : "Nan",
+        "height" : "888"
+    },
+    {
+        "nameTH": "ภูชี้ฟ้า",
+        "nameENG": "PhooCheepha",
+        "province" : "Chiangrai",
+        "height" : "1628"
+    },
+    {
+        "nameTH": "ดอยอินทนนท์",
+        "nameENG": "DoyIntanon",
+        "province" : "Chiangmai",
+        "height" : "2565"
+    },
+    {
+        "nameTH": "ภูทับเบิก",
+        "nameENG": "PhooTubburg",
+        "province" : "Phetchabun",
+        "height" : "1768"
+    },
+    {
+        "nameTH": "ภูกระดึง",
+        "nameENG": "PhooKradueng",
+        "province" : "Loei",
+        "height" : "1316"
+    },
+    {
+        "nameTH": "ภูลมโล",
+        "nameENG": "PhooLomlo",
+        "province" : "Phitsanulok",
+        "height" : "1680"
+    },
+    {
+        "nameTH": "เขาพะเนินทุ่ง",
+        "nameENG": "KhaoPanuentung",
+        "province" : "Phetchaburi",
+        "height" : "1234"
+    },
+    {
+        "nameTH": "ภูลังกา",
+        "nameENG": "PhooLungga",
+        "province" : "Phayao",
+        "height" : "1720"
+    },
+    {
+        "nameTH": "เขาช้างเผือก",
+        "nameENG": "KhaoChangpueng",
+        "province" : "Kanchanaburi",
+        "height" : "1249"
+    }
+  
+]
