@@ -80,28 +80,28 @@ body{
   slide:nth-child(1){
     left: 0%;
     animation-delay: -1s;
-    background-image: url(doi1.jpg);
+    background-image: url("doi1.jpg");
     background-size: cover;
     background-position: center; 
   }
   slide:nth-child(2){
     left: 0%;
     animation-delay: 2s;
-    background-image: url(doi2.jpg);
+    background-image: url("doi2.jpg");
     background-size: cover;
     background-position: center; 
   }
   slide:nth-child(3){
     left: 0%;
     animation-delay: 5s;
-    background-image: url(doi3.jpg);
+    background-image: url("doi3.jpg");
     background-size: cover;
     background-position: center; 
   }
   slide:nth-child(4){
     left: 0%;
     animation-delay: 5s;
-    background-image: url(doi4.jpg);
+    background-image: url("doi4.jpg");
     background-size: cover;
     background-position: center; 
   }
