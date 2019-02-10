@@ -1,4 +1,16 @@
-.slidecontainer {
+body{
+    /* padding: 0 175px 0 110px;  */
+	background-image: url("wallpaper.jpg") ;
+	background-repeat: no-repeat;
+    background-position-x: center;
+	background-attachment: fixed;
+	height: 1080px;
+	
+	background-size: cover; 
+	background-size:fixed;
+  }
+  
+  .slidecontainer {
     width: 100%; /* Width of the outside container */
   }
   
@@ -36,3 +48,12 @@
     background: #4CAF50; /* Green background */
     cursor: pointer; /* Cursor on hover */
   }
+ 
+  #ref {
+      color: aliceblue;
+  }
+  #result{
+    color: aliceblue;
+}
+
+  .mySlides {display:none;}
